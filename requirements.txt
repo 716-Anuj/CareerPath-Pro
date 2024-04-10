@@ -1,2 +1,4 @@
 pypdf
 streamlit_extras
+scikit-learn
+pandas
